@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Daniho100, a mid-level PHP Laravel and Javascript React.js software developer.
+- 👋 Hi, I’m @Daniho100, a PHP(Laravel) and Javascript (MERN) software Engineer.
 - 👀 I’m interested in software engineering...
 - 💞️ I’m looking to collaborate on open source codes and all things concerning web development.
 - 📫 Reach me on LinkedIn https://www.linkedin.com/in/daniel-ojiaku-0a440221a/
